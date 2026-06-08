@@ -19,13 +19,17 @@
                 "sections": [
                     {
                         "name": "Missile Tank Speedboost",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31209"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Missile Tank Tunnel",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31210"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -50,13 +54,17 @@
                 "sections": [
                     {
                         "name": "Bomb",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31212"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Missile Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31216"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -90,13 +98,17 @@
                         "sections": [
                             {
                                 "name": "Lower",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$access_31221"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
                                 "name": "Upper",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$access_31230"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -123,7 +135,9 @@
                 "sections": [
                     {
                         "name": "Energy Part",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31226"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -141,97 +155,129 @@
         "sections": [
             {
                 "name": "Wide Beam Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31211"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Big Hub",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31213"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Teleport to Artaria",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31214"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Transport to Artaria",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31215"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Yellow EMMI Introduction",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31217"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Early Grapple Access",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31218"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Lake Puzzle Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31219"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "EMMI Zone Exit Northwest",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31220"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Storm Missile Gate Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31222"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Save Station West Tunnels",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31223"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Energy Recharge Station West",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31224"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Shinespark Tutorial",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31225"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "EMMI Zone Exit North",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31227"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Hidden Grapple Shortcut Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31228"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Cross Bomb Puzzle Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31229"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "E.M.M.I.-04SB",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31301"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             }

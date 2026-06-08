@@ -19,13 +19,17 @@
                 "sections": [
                     {
                         "name": "Missile Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31161"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Energy Part",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31170"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -50,13 +54,17 @@
                 "sections": [
                     {
                         "name": "Missile Tank, Underwater",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31162"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Missile Tank, Supers-locked",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31174"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -81,13 +89,17 @@
                 "sections": [
                     {
                         "name": "Missile Tank 1",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31166"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Missile Tank 2",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31185"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -112,13 +124,17 @@
                 "sections": [
                     {
                         "name": "Missile+ Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31169"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Energy Part",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31172"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -143,19 +159,25 @@
                 "sections": [
                     {
                         "name": "Missile Tank, Top",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31178"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Missile Tank, Underwater",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31180"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Screw Attack",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31181"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -173,146 +195,194 @@
         "sections": [
             {
                 "name": "Charge Beam Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31154"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Arbitrary Enky Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31155"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Hot Cataris Shortcut",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31156"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Charge Tutorial",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31157"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "EMMI Zone First Entrance",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31158"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "EMMI Zone Spinner",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31159"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Invisible Corpius Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31160"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "David Jaffe Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31163"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Thermal Device",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31164"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "East Lava Missile Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31165"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Proto EMMI Introduction",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31167"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Shutter Platform Puzzle",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31168"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "EMMI Zone Exit North",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31171"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "EMMI Zone Hub",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31173"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "EMMI Zone Exit Northwest",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31175"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Energy Recharge Station South",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31176"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Varia Suit Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31177"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Grapple Beam Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31179"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Freezer",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31182"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Charge Beam Access",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31183"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Varia Suit Tutorial North",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31184"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Transport to Burenia",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31186"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Corpius",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31292"
+                ],
                 "hosted_item": "Corpius",
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "E.M.M.I.-02SM",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31293"
+                ],
                 "hosted_item": "WhiteEMMI",
                 "visibility_rules": [],
                 "item_count": 1

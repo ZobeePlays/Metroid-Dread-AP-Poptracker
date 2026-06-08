@@ -19,19 +19,25 @@
                 "sections": [
                     {
                         "name": "Space Jump",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31273"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Missile Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31283"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Missile+ Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31284"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -65,13 +71,17 @@
                         "sections": [
                             {
                                 "name": "Left",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$access_31274"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
                                 "name": "Right",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$access_31286"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -91,73 +101,97 @@
         "sections": [
             {
                 "name": "Pitfall Puzzle Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31275"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Escue Eyedoor Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31276"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Total Recharge Station",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31277"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Energy Recharge Station Secret",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31278"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Cold Room (Storm Missile Gate)",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31279"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Twin Robot Arena",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31280"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Purple EMMI Introduction",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31281"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Fan Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31282"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Speedboost Slopes Maze",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31285"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Path to Escue",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31287"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Escue",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31296"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "E.M.M.I.-06WB",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31297"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             }

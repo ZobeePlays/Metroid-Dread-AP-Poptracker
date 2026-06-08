@@ -10,31 +10,41 @@
         "sections": [
             {
                 "name": "Ammo Recharge Station",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31268"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Plasma Beam Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31269"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Vertical Bomb Maze",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31270"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Fan Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31271"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Horizontal Bomb Maze",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31272"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             }

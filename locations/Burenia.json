@@ -19,13 +19,17 @@
                 "sections": [
                     {
                         "name": "Gravity Suit",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31233"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Power Bomb Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31239"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -50,13 +54,17 @@
                 "sections": [
                     {
                         "name": "Missile Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31235"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Energy Part",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31244"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -81,13 +89,17 @@
                 "sections": [
                     {
                         "name": "Energy Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31236"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Missile Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31238"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -112,13 +124,17 @@
                 "sections": [
                     {
                         "name": "Energy Part",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31240"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Missile+ Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31241"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -143,13 +159,17 @@
                 "sections": [
                     {
                         "name": "Missile+ Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31242"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Missile Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31247"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -174,13 +194,17 @@
                 "sections": [
                     {
                         "name": "Missile+ Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31243"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Missile Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31248"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -198,49 +222,65 @@
         "sections": [
             {
                 "name": "Energy Recharge South",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31231"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Flash Shift Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31232"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Underneath Drogyga",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31234"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Transport to Artaria",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31237"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Teleport to Ferenia",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31245"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Upper Burenia Hub",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31246"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Storm Missile Gate Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31249"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Drogyga",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31294"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             }

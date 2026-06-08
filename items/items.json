@@ -255,10 +255,6 @@
         "overlay_align": "right",
         "codes": "spacejump"
     },
-
-
-
-
     {
         "name": "Corpius",
         "type": "toggle",
@@ -307,10 +303,6 @@
         "overlay_align": "right",
         "codes": "Golzuna"
     },
-
-
-
-
     {
         "name": "E.M.M.I.-02SM",
         "type": "toggle",
@@ -359,12 +351,6 @@
         "overlay_align": "right",
         "codes": "OrangeEMMI"
     },
-
-
-
-
-
-
     {
         "name": "Area Transition",
         "type": "progressive",
@@ -490,5 +476,265 @@
                 "codes": "FFFFF"
             }
         ]
+    },
+    {
+        "name": "Trick: Knowledge",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_knowledge",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Movement",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_movement",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Combat",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_combat",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Pseudo-Wave Beam",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_pseudo",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Infinite Bomb Jump",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_ibj",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Water Bomb Jump",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_wbj",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Water Space Jump",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_wsj",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Single-wall Wall Jump",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_swj",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Slide Jump",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_slide",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Speed Booster Conservation",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_speedbooster",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Wall Jump",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_walljump",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Heat/Cold Runs",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_suitless",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Reverse Grapple Block",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_rgrapple",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Damage Boost",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_dboost",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Stand on Frozen Enemy",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_frozenenemy",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Grapple Movement",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_grapplemovement",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Cross Bomb Skip",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_crossskip",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Climb Sloped Tunnels",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_tunnelslope",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Short Boost",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_shortboost",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Diffusion Abuse",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_diffusionabuse",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Flash Shift Skip",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_flashskip",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Diagonal Bomb Jump",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_dbj",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Ledge Warp",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_ledgewarp",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Cross Bomb Launch",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_cbl",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Floor Clip",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_floorclip",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
+    },
+    {
+        "name": "Trick: Climb Sloped Surfaces",
+        "type": "consumable",
+        "img": "images/items/Huh.png",
+        "codes": "trick_slopeclimb",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "overlay_align": "bottom"
     }
 ]

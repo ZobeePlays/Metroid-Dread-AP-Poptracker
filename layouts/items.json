@@ -183,5 +183,29 @@
                 ]
             }
         ]
+    },
+    "Tricks_Grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 36,
+                "item_width": 36,
+                "rows": [
+                    ["trick_knowledge", "trick_movement", "trick_combat", "trick_pseudo", "trick_ibj"],
+                    ["trick_wbj", "trick_wsj", "trick_swj", "trick_slide", "trick_speedbooster"],
+                    ["trick_walljump", "trick_suitless", "trick_rgrapple", "trick_dboost", "trick_frozenenemy"],
+                    ["trick_grapplemovement", "trick_crossskip", "trick_tunnelslope", "trick_shortboost", "trick_diffusionabuse"],
+                    ["trick_flashskip", "trick_dbj", "trick_ledgewarp", "trick_cbl", "trick_floorclip"],
+                    ["trick_slopeclimb"]
+                ]
+            }
+        ]
     }
 }

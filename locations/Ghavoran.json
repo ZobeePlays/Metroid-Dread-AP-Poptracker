@@ -19,19 +19,25 @@
                 "sections": [
                     {
                         "name": "Power Bomb Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31250"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Energy Part",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31259"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Energy Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31263"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -56,13 +62,17 @@
                 "sections": [
                     {
                         "name": "Energy Part",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31266"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Missile Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31267"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -80,91 +90,121 @@
         "sections": [
             {
                 "name": "Right Entrance",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31251"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Cross Bomb Tutorial",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31252"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Dairon Transport Access",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31253"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Super Missile Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31254"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Map Station Access Secret",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31255"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Super Missile Room Access",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31256"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Teleport to Burenia",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31257"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Spin Boost Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31258"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Above Pulse Radar",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31260"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Total Recharge Station North",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31261"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Left Entrance",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31262"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Pulse Radar Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31264"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Elun Transport Access",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31265"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Golzuna",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31299"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "E.M.M.I.-05IM",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31300"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             }

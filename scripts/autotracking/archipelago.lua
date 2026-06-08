@@ -231,9 +231,24 @@ function onClear(slot_data)
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
-    -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
-    --     autoFill(slot_data)
-    -- end
+    -- Pre-populate the per-trick difficulty dials and the DNA goal target from
+    -- the seed's slot_data (emitted by the dread_ap apworld). Each trick dial is
+    -- a consumable whose acquired count IS its difficulty level
+    -- (0 = disabled .. 5 = mastery); the access logic reads dcnt("trick_<name>").
+    if slot_data then
+        if slot_data.required_artifacts ~= nil then
+            DREAD_REQUIRED_DNA = slot_data.required_artifacts
+        end
+        if slot_data.trick_levels and DREAD_TRICK_CODES then
+            for short_name, level in pairs(slot_data.trick_levels) do
+                local code = DREAD_TRICK_CODES[short_name]
+                local obj = code and Tracker:FindObjectForCode(code)
+                if obj then
+                    obj.AcquiredCount = level
+                end
+            end
+        end
+    end
     -- print(PLAYER_ID, TEAM_NUMBER)
     if Archipelago.PlayerNumber > -1 then
         if #ALL_LOCATIONS > 0 then

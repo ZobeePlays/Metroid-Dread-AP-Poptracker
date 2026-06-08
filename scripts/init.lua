@@ -7,6 +7,9 @@ require("scripts/items_import")
 require("scripts/logic/logic_helper")
 require("scripts/logic/base_logic")
 require("scripts/logic/graph_logic/logic_main")
+-- Archipelago access logic generated from the apworld's compiled rules
+-- (one access_<apid>() per location, region_access AND per-location rule).
+require("scripts/logic/ap_logic")
 
 -- Maps
 if Tracker.ActiveVariantUID == "maps-u" then
