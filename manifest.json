@@ -1,0 +1,28 @@
+{
+    "name": "Metroid Dread Randomizer (AP)",
+    "game_name": "Metroid Dread",
+    "package_version": "0.0.1",
+    "package_uid": "metroid dread_ap",
+    "author": "ZobeePlays",
+    "variants": {
+        "Map Tracker (Horizontal)": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "Map Tracker (Vertical)": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "Items Only": {
+            "display_name": "Items Only",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0"
+}

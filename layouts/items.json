@@ -1,0 +1,187 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "widebeam",
+                                "plasmabeam",
+                                "wavebeam",
+                                "chargebeam",
+                                "diffusionbeam",
+                                "grapplebeam"
+                            ],
+                            [
+                                "morphball",
+                                "bomb",
+                                "crossbomb",
+                                "powerbomb",
+                                "variasuit",
+                                "gravitysuit"
+                            ],
+                            [
+                                "pulseradar",
+                                "phantomcloak",
+                                "spidermagnet",
+                                "speedbooster",
+                                "spinboost",
+                                "spacejump"
+                            ],
+                            [
+                                "flashshift",
+                                "screwattack",
+                                "FFF",
+                                "supermissile",
+                                "icemissile",                                
+                                "stormmissile"
+                            ],
+                            [
+                                "X",
+                                "DNA",
+                                "Missle+",
+                                "Slide",
+                                "FFF"
+                            ],
+                            [
+                                "energytank",
+                                "energypart",
+                                "missiletank",
+                                "powerbombtank",
+                                "flashshiftupgrade",
+                                "speedboosterupgrade"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 53,
+                        "item_width": 53,
+                        "rows": [
+                            [
+                                "widebeam",
+                                "plasmabeam",
+                                "wavebeam",
+                                "chargebeam",
+                                "diffusionbeam",
+                                "grapplebeam"
+                            ],
+                            [
+                                "morphball",
+                                "bomb",
+                                "crossbomb",
+                                "powerbomb",
+                                "variasuit",
+                                "gravitysuit"
+                            ],
+                            [
+                                "pulseradar",
+                                "phantomcloak",
+                                "spidermagnet",
+                                "speedbooster",
+                                "spinboost",
+                                "spacejump"
+                            ],
+                            [
+                                "flashshift",
+                                "screwattack",
+                                "FFF",
+                                "supermissile",
+                                "icemissile",                                
+                                "stormmissile"
+                            ],
+                            [
+                                "X",
+                                "DNA",
+                                "Missle+",
+                                "Slide",
+                                "FFF"
+                            ],
+                            [
+                                "energytank",
+                                "energypart",
+                                "missiletank",
+                                "powerbombtank",
+                                "flashshiftupgrade",
+                                "speedboosterupgrade"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Bosses_Grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 53,
+                        "item_width": 53,
+                        "rows": [
+                            [
+                                "WhiteEMMI",
+                                "GreenEMMI",
+                                "YellowEMMI",
+                                "BlueEMMI",
+                                "PurpleEMMI",
+                                "OrangeEMMI"
+                            ],
+                            [
+                                "Corpius",
+                                "Kraid",
+                                "Drogyga",
+                                "Escue",
+                                "Z-57",
+                                "Golzuna"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

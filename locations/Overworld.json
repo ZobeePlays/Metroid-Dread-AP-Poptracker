@@ -1,0 +1,836 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Artaria",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waterfall - Missile Tank",
+                        "ref": "Artaria/Waterfall/Missile Tank"
+                    },
+                    {
+                        "name": "Waterfall - Energy Part",
+                        "ref": "Artaria/Waterfall/Energy Part"
+                    },
+                    {
+                        "name": "Teleport to Cataris - Missile Tank, Underwater",
+                        "ref": "Artaria/Teleport to Cataris/Missile Tank, Underwater"
+                    },
+                    {
+                        "name": "Teleport to Cataris - Missile Tank, Supers-locked",
+                        "ref": "Artaria/Teleport to Cataris/Missile Tank, Supers-locked"
+                    },
+                    {
+                        "name": "Melee Tutorial Room - Missile Tank 1",
+                        "ref": "Artaria/Melee Tutorial Room/Missile Tank 1"
+                    },
+                    {
+                        "name": "Melee Tutorial Room - Missile Tank 2",
+                        "ref": "Artaria/Melee Tutorial Room/Missile Tank 2"
+                    },
+                    {
+                        "name": "Speed Hallway - Missile+ Tank",
+                        "ref": "Artaria/Speed Hallway/Missile+ Tank"
+                    },
+                    {
+                        "name": "Speed Hallway - Energy Part",
+                        "ref": "Artaria/Speed Hallway/Energy Part"
+                    },
+                    {
+                        "name": "Screw Attack Room - Missile Tank, Top",
+                        "ref": "Artaria/Screw Attack Room/Missile Tank, Top"
+                    },
+                    {
+                        "name": "Screw Attack Room - Missile Tank, Underwater",
+                        "ref": "Artaria/Screw Attack Room/Missile Tank, Underwater"
+                    },
+                    {
+                        "name": "Screw Attack Room - Screw Attack",
+                        "ref": "Artaria/Screw Attack Room/Screw Attack"
+                    },
+                    {
+                        "name": "Artaria - Charge Beam Room",
+                        "ref": "Artaria/Charge Beam Room"
+                    },
+                    {
+                        "name": "Artaria - Arbitrary Enky Room",
+                        "ref": "Artaria/Arbitrary Enky Room"
+                    },
+                    {
+                        "name": "Artaria - Hot Cataris Shortcut",
+                        "ref": "Artaria/Hot Cataris Shortcut"
+                    },
+                    {
+                        "name": "Artaria - Charge Tutorial",
+                        "ref": "Artaria/Charge Tutorial"
+                    },
+                    {
+                        "name": "Artaria - EMMI Zone First Entrance",
+                        "ref": "Artaria/EMMI Zone First Entrance"
+                    },
+                    {
+                        "name": "Artaria - EMMI Zone Spinner",
+                        "ref": "Artaria/EMMI Zone Spinner"
+                    },
+                    {
+                        "name": "Artaria - Invisible Corpius Room",
+                        "ref": "Artaria/Invisible Corpius Room"
+                    },
+                    {
+                        "name": "Artaria - David Jaffe Room",
+                        "ref": "Artaria/David Jaffe Room"
+                    },
+                    {
+                        "name": "Artaria - Thermal Device",
+                        "ref": "Artaria/Thermal Device"
+                    },
+                    {
+                        "name": "Artaria - East Lava Missile Room",
+                        "ref": "Artaria/East Lava Missile Room"
+                    },
+                    {
+                        "name": "Artaria - Proto EMMI Introduction",
+                        "ref": "Artaria/Proto EMMI Introduction"
+                    },
+                    {
+                        "name": "Artaria - Shutter Platform Puzzle",
+                        "ref": "Artaria/Shutter Platform Puzzle"
+                    },
+                    {
+                        "name": "Artaria - EMMI Zone Exit North",
+                        "ref": "Artaria/EMMI Zone Exit North"
+                    },
+                    {
+                        "name": "Artaria - EMMI Zone Hub",
+                        "ref": "Artaria/EMMI Zone Hub"
+                    },
+                    {
+                        "name": "Artaria - EMMI Zone Exit Northwest",
+                        "ref": "Artaria/EMMI Zone Exit Northwest"
+                    },
+                    {
+                        "name": "Artaria - Energy Recharge Station South",
+                        "ref": "Artaria/Energy Recharge Station South"
+                    },
+                    {
+                        "name": "Artaria - Varia Suit Room",
+                        "ref": "Artaria/Varia Suit Room"
+                    },
+                    {
+                        "name": "Artaria - Grapple Beam Room",
+                        "ref": "Artaria/Grapple Beam Room"
+                    },
+                    {
+                        "name": "Artaria - Freezer",
+                        "ref": "Artaria/Freezer"
+                    },
+                    {
+                        "name": "Artaria - Charge Beam Access",
+                        "ref": "Artaria/Charge Beam Access"
+                    },
+                    {
+                        "name": "Artaria - Varia Suit Tutorial North",
+                        "ref": "Artaria/Varia Suit Tutorial North"
+                    },
+                    {
+                        "name": "Artaria - Transport to Burenia",
+                        "ref": "Artaria/Transport to Burenia"
+                    },
+                    {
+                        "name": "Artaria - Corpius",
+                        "ref": "Artaria/Corpius"
+                    },
+                    {
+                        "name": "Artaria - E.M.M.I.-02SM",
+                        "ref": "Artaria/E.M.M.I.-02SM"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZDR",
+                        "x": 480,
+                        "y": 535,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Burenia",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Gravity Suit Room - Gravity Suit",
+                        "ref": "Burenia/Gravity Suit Room/Gravity Suit"
+                    },
+                    {
+                        "name": "Gravity Suit Room - Power Bomb Tank",
+                        "ref": "Burenia/Gravity Suit Room/Power Bomb Tank"
+                    },
+                    {
+                        "name": "Burenia Hub to Dairon - Missile Tank",
+                        "ref": "Burenia/Burenia Hub to Dairon/Missile Tank"
+                    },
+                    {
+                        "name": "Burenia Hub to Dairon - Energy Part",
+                        "ref": "Burenia/Burenia Hub to Dairon/Energy Part"
+                    },
+                    {
+                        "name": "Main Hub Tower Top - Energy Tank",
+                        "ref": "Burenia/Main Hub Tower Top/Energy Tank"
+                    },
+                    {
+                        "name": "Main Hub Tower Top - Missile Tank",
+                        "ref": "Burenia/Main Hub Tower Top/Missile Tank"
+                    },
+                    {
+                        "name": "Early Gravity Speedboost Room 1 - Energy Part",
+                        "ref": "Burenia/Early Gravity Speedboost Room 1/Energy Part"
+                    },
+                    {
+                        "name": "Early Gravity Speedboost Room 1 - Missile+ Tank",
+                        "ref": "Burenia/Early Gravity Speedboost Room 1/Missile+ Tank"
+                    },
+                    {
+                        "name": "Gravity Suit Tower - Missile+ Tank",
+                        "ref": "Burenia/Gravity Suit Tower/Missile+ Tank"
+                    },
+                    {
+                        "name": "Gravity Suit Tower - Missile Tank",
+                        "ref": "Burenia/Gravity Suit Tower/Missile Tank"
+                    },
+                    {
+                        "name": "Main Hub Tower Middle - Missile+ Tank",
+                        "ref": "Burenia/Main Hub Tower Middle/Missile+ Tank"
+                    },
+                    {
+                        "name": "Main Hub Tower Middle - Missile Tank",
+                        "ref": "Burenia/Main Hub Tower Middle/Missile Tank"
+                    },
+                    {
+                        "name": "Burenia - Energy Recharge South",
+                        "ref": "Burenia/Energy Recharge South"
+                    },
+                    {
+                        "name": "Burenia - Flash Shift Room",
+                        "ref": "Burenia/Flash Shift Room"
+                    },
+                    {
+                        "name": "Burenia - Underneath Drogyga",
+                        "ref": "Burenia/Underneath Drogyga"
+                    },
+                    {
+                        "name": "Burenia - Transport to Artaria",
+                        "ref": "Burenia/Transport to Artaria"
+                    },
+                    {
+                        "name": "Burenia - Teleport to Ferenia",
+                        "ref": "Burenia/Teleport to Ferenia"
+                    },
+                    {
+                        "name": "Burenia - Upper Burenia Hub",
+                        "ref": "Burenia/Upper Burenia Hub"
+                    },
+                    {
+                        "name": "Burenia - Storm Missile Gate Room",
+                        "ref": "Burenia/Storm Missile Gate Room"
+                    },
+                    {
+                        "name": "Burenia - Drogyga",
+                        "ref": "Burenia/Drogyga"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZDR",
+                        "x": 70,
+                        "y": 390,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Cataris",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Diffusion Beam Room - Diffusion Beam",
+                        "ref": "Cataris/Diffusion Beam Room/Diffusion Beam"
+                    },
+                    {
+                        "name": "Diffusion Beam Room - Power Bomb Tank",
+                        "ref": "Cataris/Diffusion Beam Room/Power Bomb Tank"
+                    },
+                    {
+                        "name": "Above Z-57 Fight - Missile Tank",
+                        "ref": "Cataris/Above Z-57 Fight/Missile Tank"
+                    },
+                    {
+                        "name": "Missile Tank - Top",
+                        "ref": "Cataris/Teleport to Ghavoran/Missile Tank/Top"
+                    },
+                    {
+                        "name": "Missile Tank - Bottom",
+                        "ref": "Cataris/Teleport to Ghavoran/Missile Tank/Bottom"
+                    },
+                    {
+                        "name": "Thermal Device Room North - Energy Part",
+                        "ref": "Cataris/Thermal Device Room North/Energy Part"
+                    },
+                    {
+                        "name": "Thermal Device Room North - Energy Tank",
+                        "ref": "Cataris/Thermal Device Room North/Energy Tank"
+                    },
+                    {
+                        "name": "Teleport to Artaria (Blue) - Missile Tank",
+                        "ref": "Cataris/Teleport to Artaria (Blue)/Missile Tank"
+                    },
+                    {
+                        "name": "Teleport to Artaria (Blue) - Power Bomb Tank",
+                        "ref": "Cataris/Teleport to Artaria (Blue)/Power Bomb Tank"
+                    },
+                    {
+                        "name": "Cataris - EMMI Zone Item Tunnel",
+                        "ref": "Cataris/EMMI Zone Item Tunnel"
+                    },
+                    {
+                        "name": "Cataris - Kraid Eyedoor Room",
+                        "ref": "Cataris/Kraid Eyedoor Room"
+                    },
+                    {
+                        "name": "Cataris - Transport to Artaria",
+                        "ref": "Cataris/Transport to Artaria"
+                    },
+                    {
+                        "name": "Cataris - Z-57 Heat Room West (Right)",
+                        "ref": "Cataris/Z-57 Heat Room West (Right)"
+                    },
+                    {
+                        "name": "Cataris - Teleport to Dairon",
+                        "ref": "Cataris/Teleport to Dairon"
+                    },
+                    {
+                        "name": "Cataris - EMMI Zone Exits West",
+                        "ref": "Cataris/EMMI Zone Exits West"
+                    },
+                    {
+                        "name": "Cataris - Double Obsydomithon Room",
+                        "ref": "Cataris/Double Obsydomithon Room"
+                    },
+                    {
+                        "name": "Cataris - Underlava Puzzle Room 2",
+                        "ref": "Cataris/Underlava Puzzle Room 2"
+                    },
+                    {
+                        "name": "Cataris - Lava Button East Access",
+                        "ref": "Cataris/Lava Button East Access"
+                    },
+                    {
+                        "name": "Cataris - EMMI Zone Hidden Missile Room",
+                        "ref": "Cataris/EMMI Zone Hidden Missile Room"
+                    },
+                    {
+                        "name": "Cataris - Teleport to Artaria (Red)",
+                        "ref": "Cataris/Teleport to Artaria (Red)"
+                    },
+                    {
+                        "name": "Cataris - Z-57 Heat Room East",
+                        "ref": "Cataris/Z-57 Heat Room East"
+                    },
+                    {
+                        "name": "Cataris - Dairon Transport Access",
+                        "ref": "Cataris/Dairon Transport Access"
+                    },
+                    {
+                        "name": "Cataris - Experiment Z-57",
+                        "ref": "Cataris/Experiment Z-57"
+                    },
+                    {
+                        "name": "Cataris - E.M.M.I.-03MB",
+                        "ref": "Cataris/E.M.M.I.-03MB"
+                    },
+                    {
+                        "name": "Cataris - Kraid",
+                        "ref": "Cataris/Kraid"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZDR",
+                        "x": 690,
+                        "y": 365,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Dairon",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Early Grapple Room - Missile Tank Speedboost",
+                        "ref": "Dairon/Early Grapple Room/Missile Tank Speedboost"
+                    },
+                    {
+                        "name": "Early Grapple Room - Missile Tank Tunnel",
+                        "ref": "Dairon/Early Grapple Room/Missile Tank Tunnel"
+                    },
+                    {
+                        "name": "Bomb Room - Bomb",
+                        "ref": "Dairon/Bomb Room/Bomb"
+                    },
+                    {
+                        "name": "Bomb Room - Missile Tank",
+                        "ref": "Dairon/Bomb Room/Missile Tank"
+                    },
+                    {
+                        "name": "Missile Tank - Lower",
+                        "ref": "Dairon/Freezer/Missile Tank/Lower"
+                    },
+                    {
+                        "name": "Missile Tank - Upper",
+                        "ref": "Dairon/Freezer/Missile Tank/Upper"
+                    },
+                    {
+                        "name": "Central Unit Access - Energy Part",
+                        "ref": "Dairon/Central Unit Access/Energy Part"
+                    },
+                    {
+                        "name": "Dairon - Wide Beam Room",
+                        "ref": "Dairon/Wide Beam Room"
+                    },
+                    {
+                        "name": "Dairon - Big Hub",
+                        "ref": "Dairon/Big Hub"
+                    },
+                    {
+                        "name": "Dairon - Teleport to Artaria",
+                        "ref": "Dairon/Teleport to Artaria"
+                    },
+                    {
+                        "name": "Dairon - Transport to Artaria",
+                        "ref": "Dairon/Transport to Artaria"
+                    },
+                    {
+                        "name": "Dairon - Yellow EMMI Introduction",
+                        "ref": "Dairon/Yellow EMMI Introduction"
+                    },
+                    {
+                        "name": "Dairon - Early Grapple Access",
+                        "ref": "Dairon/Early Grapple Access"
+                    },
+                    {
+                        "name": "Dairon - Lake Puzzle Room",
+                        "ref": "Dairon/Lake Puzzle Room"
+                    },
+                    {
+                        "name": "Dairon - EMMI Zone Exit Northwest",
+                        "ref": "Dairon/EMMI Zone Exit Northwest"
+                    },
+                    {
+                        "name": "Dairon - Storm Missile Gate Room",
+                        "ref": "Dairon/Storm Missile Gate Room"
+                    },
+                    {
+                        "name": "Dairon - Save Station West Tunnels",
+                        "ref": "Dairon/Save Station West Tunnels"
+                    },
+                    {
+                        "name": "Dairon - Energy Recharge Station West",
+                        "ref": "Dairon/Energy Recharge Station West"
+                    },
+                    {
+                        "name": "Dairon - Shinespark Tutorial",
+                        "ref": "Dairon/Shinespark Tutorial"
+                    },
+                    {
+                        "name": "Dairon - EMMI Zone Exit North",
+                        "ref": "Dairon/EMMI Zone Exit North"
+                    },
+                    {
+                        "name": "Dairon - Hidden Grapple Shortcut Room",
+                        "ref": "Dairon/Hidden Grapple Shortcut Room"
+                    },
+                    {
+                        "name": "Dairon - Cross Bomb Puzzle Room",
+                        "ref": "Dairon/Cross Bomb Puzzle Room"
+                    },
+                    {
+                        "name": "Dairon - E.M.M.I.-04SB",
+                        "ref": "Dairon/E.M.M.I.-04SB"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZDR",
+                        "x": 400,
+                        "y": 370,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Elun",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Elun - Ammo Recharge Station",
+                        "ref": "Elun/Ammo Recharge Station"
+                    },
+                    {
+                        "name": "Elun - Plasma Beam Room",
+                        "ref": "Elun/Plasma Beam Room"
+                    },
+                    {
+                        "name": "Elun - Vertical Bomb Maze",
+                        "ref": "Elun/Vertical Bomb Maze"
+                    },
+                    {
+                        "name": "Elun - Fan Room",
+                        "ref": "Elun/Fan Room"
+                    },
+                    {
+                        "name": "Elun - Horizontal Bomb Maze",
+                        "ref": "Elun/Horizontal Bomb Maze"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZDR",
+                        "x": 335,
+                        "y": 285,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Ferenia",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Space Jump Room - Space Jump",
+                        "ref": "Ferenia/Space Jump Room/Space Jump"
+                    },
+                    {
+                        "name": "Space Jump Room - Missile Tank",
+                        "ref": "Ferenia/Space Jump Room/Missile Tank"
+                    },
+                    {
+                        "name": "Space Jump Room - Missile+ Tank",
+                        "ref": "Ferenia/Space Jump Room/Missile+ Tank"
+                    },
+                    {
+                        "name": "Missile Tank - Left",
+                        "ref": "Ferenia/Separate Tunnels Room/Missile Tank/Left"
+                    },
+                    {
+                        "name": "Missile Tank - Right",
+                        "ref": "Ferenia/Separate Tunnels Room/Missile Tank/Right"
+                    },
+                    {
+                        "name": "Ferenia - Pitfall Puzzle Room",
+                        "ref": "Ferenia/Pitfall Puzzle Room"
+                    },
+                    {
+                        "name": "Ferenia - Escue Eyedoor Room",
+                        "ref": "Ferenia/Escue Eyedoor Room"
+                    },
+                    {
+                        "name": "Ferenia - Total Recharge Station",
+                        "ref": "Ferenia/Total Recharge Station"
+                    },
+                    {
+                        "name": "Ferenia - Energy Recharge Station Secret",
+                        "ref": "Ferenia/Energy Recharge Station Secret"
+                    },
+                    {
+                        "name": "Ferenia - Cold Room (Storm Missile Gate)",
+                        "ref": "Ferenia/Cold Room (Storm Missile Gate)"
+                    },
+                    {
+                        "name": "Ferenia - Twin Robot Arena",
+                        "ref": "Ferenia/Twin Robot Arena"
+                    },
+                    {
+                        "name": "Ferenia - Purple EMMI Introduction",
+                        "ref": "Ferenia/Purple EMMI Introduction"
+                    },
+                    {
+                        "name": "Ferenia - Fan Room",
+                        "ref": "Ferenia/Fan Room"
+                    },
+                    {
+                        "name": "Ferenia - Speedboost Slopes Maze",
+                        "ref": "Ferenia/Speedboost Slopes Maze"
+                    },
+                    {
+                        "name": "Ferenia - Path to Escue",
+                        "ref": "Ferenia/Path to Escue"
+                    },
+                    {
+                        "name": "Ferenia - Escue",
+                        "ref": "Ferenia/Escue"
+                    },
+                    {
+                        "name": "Ferenia - E.M.M.I.-06WB",
+                        "ref": "Ferenia/E.M.M.I.-06WB"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZDR",
+                        "x": 480,
+                        "y": 270,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Ghavoran",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Spin Boost Tower - Power Bomb Tank",
+                        "ref": "Ghavoran/Spin Boost Tower/Power Bomb Tank"
+                    },
+                    {
+                        "name": "Spin Boost Tower - Energy Part",
+                        "ref": "Ghavoran/Spin Boost Tower/Energy Part"
+                    },
+                    {
+                        "name": "Spin Boost Tower - Energy Tank",
+                        "ref": "Ghavoran/Spin Boost Tower/Energy Tank"
+                    },
+                    {
+                        "name": "Golzuna Tower - Energy Part",
+                        "ref": "Ghavoran/Golzuna Tower/Energy Part"
+                    },
+                    {
+                        "name": "Golzuna Tower - Missile Tank",
+                        "ref": "Ghavoran/Golzuna Tower/Missile Tank"
+                    },
+                    {
+                        "name": "Ghavoran - Right Entrance",
+                        "ref": "Ghavoran/Right Entrance"
+                    },
+                    {
+                        "name": "Ghavoran - Cross Bomb Tutorial",
+                        "ref": "Ghavoran/Cross Bomb Tutorial"
+                    },
+                    {
+                        "name": "Ghavoran - Dairon Transport Access",
+                        "ref": "Ghavoran/Dairon Transport Access"
+                    },
+                    {
+                        "name": "Ghavoran - Super Missile Room",
+                        "ref": "Ghavoran/Super Missile Room"
+                    },
+                    {
+                        "name": "Ghavoran - Map Station Access Secret",
+                        "ref": "Ghavoran/Map Station Access Secret"
+                    },
+                    {
+                        "name": "Ghavoran - Super Missile Room Access",
+                        "ref": "Ghavoran/Super Missile Room Access"
+                    },
+                    {
+                        "name": "Ghavoran - Teleport to Burenia",
+                        "ref": "Ghavoran/Teleport to Burenia"
+                    },
+                    {
+                        "name": "Ghavoran - Spin Boost Room",
+                        "ref": "Ghavoran/Spin Boost Room"
+                    },
+                    {
+                        "name": "Ghavoran - Above Pulse Radar",
+                        "ref": "Ghavoran/Above Pulse Radar"
+                    },
+                    {
+                        "name": "Ghavoran - Total Recharge Station North",
+                        "ref": "Ghavoran/Total Recharge Station North"
+                    },
+                    {
+                        "name": "Ghavoran - Left Entrance",
+                        "ref": "Ghavoran/Left Entrance"
+                    },
+                    {
+                        "name": "Ghavoran - Pulse Radar Room",
+                        "ref": "Ghavoran/Pulse Radar Room"
+                    },
+                    {
+                        "name": "Ghavoran - Elun Transport Access",
+                        "ref": "Ghavoran/Elun Transport Access"
+                    },
+                    {
+                        "name": "Ghavoran - Golzuna",
+                        "ref": "Ghavoran/Golzuna"
+                    },
+                    {
+                        "name": "Ghavoran - E.M.M.I.-05IM",
+                        "ref": "Ghavoran/E.M.M.I.-05IM"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZDR",
+                        "x": 150,
+                        "y": 240,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Hanubia",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hanubia - Total Recharge Station North",
+                        "ref": "Hanubia/Total Recharge Station North"
+                    },
+                    {
+                        "name": "Hanubia - Speedboost Puzzle Room",
+                        "ref": "Hanubia/Speedboost Puzzle Room"
+                    },
+                    {
+                        "name": "Hanubia - Ferenia Shortcut",
+                        "ref": "Hanubia/Ferenia Shortcut"
+                    },
+                    {
+                        "name": "Hanubia - E.M.M.I.-07PB",
+                        "ref": "Hanubia/E.M.M.I.-07PB"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZDR",
+                        "x": 500,
+                        "y": 170,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Itorash",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Itorash - Kill Raven Beak (GOAL)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZDR",
+                        "x": 540,
+                        "y": 35,
+                        "size": 30
+                    }
+                ]
+            },
+
+
+
+
+
+
+
+            {
+                "name": "Elevator from Artaria -> Cataris",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                "hosted_item": "FFFFF"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZDR",
+                        "x": 612,
+                        "y": 485,
+                        "shape": "diamond",
+                        "size": 15
+                    }
+                ]
+            },
+            {
+                "name": "Elevator from Cataris -> Artaria",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                "hosted_item": "FFFFA"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZDR",
+                        "x": 767,
+                        "y": 400,
+                        "shape": "diamond",
+                        "size": 15
+                    }
+                ]
+            }
+        ]
+    }
+]

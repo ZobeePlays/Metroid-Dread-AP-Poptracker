@@ -1,0 +1,56 @@
+[
+    {
+        "name": "ZDR",
+        "location_size": 50,
+        "location_border_thickness": 1,
+        "img": "images/maps/Map.png"
+    },
+    {
+        "name": "Artaria",
+        "location_size": 50,
+        "location_border_thickness": 1,
+        "img": "images/maps/Artaria.png"
+    },
+    {
+        "name": "Burenia",
+        "location_size": 50,
+        "location_border_thickness": 1,
+        "img": "images/maps/Burenia.png"
+    },
+    {
+        "name": "Cataris",
+        "location_size": 50,
+        "location_border_thickness": 1,
+        "img": "images/maps/Cataris.png"
+    },
+    {
+        "name": "Dairon",
+        "location_size": 50,
+        "location_border_thickness": 1,
+        "img": "images/maps/Dairon.png"
+    },
+    {
+        "name": "Elun",
+        "location_size": 50,
+        "location_border_thickness": 1,
+        "img": "images/maps/Elun.png"
+    },
+    {
+        "name": "Ferenia",
+        "location_size": 50,
+        "location_border_thickness": 1,
+        "img": "images/maps/Ferenia.png"
+    },
+    {
+        "name": "Ghavoran",
+        "location_size": 50,
+        "location_border_thickness": 1,
+        "img": "images/maps/Ghavoran.png"
+    },
+    {
+        "name": "Hanubia",
+        "location_size": 50,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hanubia.png"
+    }
+]

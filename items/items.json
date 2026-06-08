@@ -1,0 +1,494 @@
+[
+    {
+        "name": "flashshiftupgrade",
+        "type": "consumable",
+        "img": "images/items/flash shift upgrade.png",
+        "max_quantity": 10,
+        "overlay_align": "right",
+        "codes": "flashshiftupgrade"
+    },
+    {
+        "name": "spidermagnet",
+        "type": "toggle",
+        "img": "images/items/spider magnet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spidermagnet"
+    },
+    {
+        "name": "chargebeam",
+        "type": "toggle",
+        "img": "images/items/charge beam.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chargebeam"
+    },
+    {
+        "name": "plasmabeam",
+        "type": "toggle",
+        "img": "images/items/plasma beam.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "plasmabeam"
+    },
+    {
+        "name": "crossbomb",
+        "type": "toggle",
+        "img": "images/items/cross bomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crossbomb"
+    },
+    {
+        "name": "supermissile",
+        "type": "toggle",
+        "img": "images/items/super missile.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "supermissile"
+    },
+    {
+        "name": "icemissile",
+        "type": "toggle",
+        "img": "images/items/ice missile.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icemissile"
+    },
+    {
+        "name": "flashshift",
+        "type": "toggle",
+        "img": "images/items/flash shift.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flashshift"
+    },
+    {
+        "name": "widebeam",
+        "type": "toggle",
+        "img": "images/items/wide beam.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "widebeam"
+    },
+    {
+        "name": "powerbomb",
+        "type": "toggle",
+        "img": "images/items/power bomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "powerbomb"
+    },
+    {
+        "name": "spinboost",
+        "type": "toggle",
+        "img": "images/items/spin boost.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spinboost"
+    },
+    {
+        "name": "diffusionbeam",
+        "type": "toggle",
+        "img": "images/items/diffusion beam.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "diffusionbeam"
+    },
+    {
+        "name": "grapplebeam",
+        "type": "toggle",
+        "img": "images/items/grapple beam.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grapplebeam"
+    },
+    {
+        "name": "morphball",
+        "type": "toggle",
+        "img": "images/items/morph ball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "morphball"
+    },
+    {
+        "name": "bomb",
+        "type": "toggle",
+        "img": "images/items/morph bomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bomb"
+    },
+    {
+        "name": "energypart",
+        "type": "consumable",
+        "img": "images/items/e-part.png",
+        "max_quantity": 16,
+        "overlay_align": "right",
+        "codes": "energypart"
+    },
+    {
+        "name": "slide",
+        "type": "toggle",
+        "img": "images/items/slide.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "slide"
+    },
+    {
+        "name": "screwattack",
+        "type": "toggle",
+        "img": "images/items/screw attack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "screwattack"
+    },
+    {
+        "name": "missiletank",
+        "type": "consumable",
+        "img": "images/items/missile tank.png",
+        "max_quantity": 100,
+        "overlay_align": "right",
+        "codes": "missiletank"
+    },
+    {
+        "name": "powerbombtank",
+        "type": "consumable",
+        "img": "images/items/PB Tank.png",
+        "max_quantity": 100,
+        "overlay_align": "right",
+        "codes": "powerbombtank"
+    },
+    {
+        "name": "variasuit",
+        "type": "toggle",
+        "img": "images/items/varia suit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "variasuit"
+    },
+    {
+        "name": "energytank",
+        "type": "consumable",
+        "img": "images/items/e-tank.png",
+        "max_quantity": 8,
+        "overlay_align": "right",
+        "codes": "energytank"
+    },
+    {
+        "name": "metroiddna1",
+        "type": "toggle",
+        "img": "images/items/metroiddna1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "metroiddna1"
+    },
+    {
+        "name": "stormmissile",
+        "type": "toggle",
+        "img": "images/items/storm missile.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stormmissile"
+    },
+    {
+        "name": "missile+tank",
+        "type": "toggle",
+        "img": "images/items/missile+tank.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "missile+tank"
+    },
+    {
+        "name": "wavebeam",
+        "type": "toggle",
+        "img": "images/items/wave beam.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wavebeam"
+    },
+    {
+        "name": "speedboosterupgrade",
+        "type": "consumable",
+        "img": "images/items/speed booster upgrade.png",
+        "max_quantity": 10,
+        "overlay_align": "right",
+        "codes": "speedboosterupgrade"
+    },
+    {
+        "name": "speed booster",
+        "type": "toggle",
+        "img": "images/items/speed booster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "speedbooster"
+    },
+    {
+        "name": "gravitysuit",
+        "type": "toggle",
+        "img": "images/items/gravity suit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gravitysuit"
+    },
+    {
+        "name": "Pulse Radar",
+        "type": "toggle",
+        "img": "images/items/scan pulse.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pulseradar"
+    },
+    {
+        "name": "phantomcloak",
+        "type": "toggle",
+        "img": "images/items/phantom cloak.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "phantomcloak"
+    },
+    {
+        "name": "spacejump",
+        "type": "toggle",
+        "img": "images/items/space jump.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spacejump"
+    },
+
+
+
+
+    {
+        "name": "Corpius",
+        "type": "toggle",
+        "img": "images/items/bosses/Corpius.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Corpius"
+    },
+    {
+        "name": "Kraid",
+        "type": "toggle",
+        "img": "images/items/bosses/Kraid.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Kraid"
+    },
+    {
+        "name": "Drogyga",
+        "type": "toggle",
+        "img": "images/items/bosses/Drogyga.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Drogyga"
+    },
+    {
+        "name": "Escue",
+        "type": "toggle",
+        "img": "images/items/bosses/Escue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Escue"
+    },
+    {
+        "name": "Z-57",
+        "type": "toggle",
+        "img": "images/items/bosses/Z-57.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Z-57"
+    },
+    {
+        "name": "Golzuna",
+        "type": "toggle",
+        "img": "images/items/bosses/Golzuna.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Golzuna"
+    },
+
+
+
+
+    {
+        "name": "E.M.M.I.-02SM",
+        "type": "toggle",
+        "img": "images/items/bosses/White.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "WhiteEMMI"
+    },
+    {
+        "name": "E.M.M.I.-03MB",
+        "type": "toggle",
+        "img": "images/items/bosses/Green.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "GreenEMMI"
+    },
+    {
+        "name": "E.M.M.I.-04SB",
+        "type": "toggle",
+        "img": "images/items/bosses/Yellow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "YellowEMMI"
+    },
+    {
+        "name": "E.M.M.I.-05IM",
+        "type": "toggle",
+        "img": "images/items/bosses/Blue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "BlueEMMI"
+    },
+    {
+        "name": "E.M.M.I.-06WB",
+        "type": "toggle",
+        "img": "images/items/bosses/Purple.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "PurpleEMMI"
+    },
+    {
+        "name": "E.M.M.I.-07PB",
+        "type": "toggle",
+        "img": "images/items/bosses/Orange.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "OrangeEMMI"
+    },
+
+
+
+
+
+
+    {
+        "name": "Area Transition",
+        "type": "progressive",
+        "stages": [
+            {
+                "name": "Crataris Elevator From Artaria",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "Artaria Elevator From Crataris",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFA"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            },
+            {
+                "name": "AREA TRANSITION",
+                "img": "images/items/Morph Ball.png",
+                "codes": "FFFFF"
+            }
+        ]
+    }
+]

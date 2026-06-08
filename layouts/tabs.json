@@ -1,0 +1,174 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "ZDR",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ZDR"
+                    ]
+                }
+            },
+            {
+                "title": "Artaria",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Artaria"
+                    ]
+                }
+            },
+            {
+                "title": "Burenia",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Burenia"
+                    ]
+                }
+            },
+            {
+                "title": "Cataris",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cataris"
+                    ]
+                }
+            },
+            {
+                "title": "Dairon",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Dairon"
+                    ]
+                }
+            },
+            {
+                "title": "Elun",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Elun"
+                    ]
+                }
+            },
+            {
+                "title": "Ferenia",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ferenia"
+                    ]
+                }
+            },
+            {
+                "title": "Ghavoran",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ghavoran"
+                    ]
+                }
+            },
+            {
+                "title": "Hanubia",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hanubia"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "ZDR",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ZDR"
+                    ]
+                }
+            },
+            {
+                "title": "Artaria",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Artaria"
+                    ]
+                }
+            },
+            {
+                "title": "Burenia",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Burenia"
+                    ]
+                }
+            },
+            {
+                "title": "Cataris",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cataris"
+                    ]
+                }
+            },
+            {
+                "title": "Dairon",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Dairon"
+                    ]
+                }
+            },
+            {
+                "title": "Elun",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Elun"
+                    ]
+                }
+            },
+            {
+                "title": "Ferenia",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ferenia"
+                    ]
+                }
+            },
+            {
+                "title": "Ghavoran",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ghavoran"
+                    ]
+                }
+            },
+            {
+                "title": "Hanubia",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hanubia"
+                    ]
+                }
+            }
+        ]
+    }
+}
