@@ -10,25 +10,33 @@
         "sections": [
             {
                 "name": "Total Recharge Station North",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31288"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Speedboost Puzzle Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31289"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Ferenia Shortcut",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31290"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "E.M.M.I.-07PB",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31291"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             }

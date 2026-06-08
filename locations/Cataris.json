@@ -19,13 +19,17 @@
                 "sections": [
                     {
                         "name": "Diffusion Beam",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31189"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Power Bomb Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31205"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -50,7 +54,9 @@
                 "sections": [
                     {
                         "name": "Missile Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31191"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -84,13 +90,17 @@
                         "sections": [
                             {
                                 "name": "Top",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$access_31195"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
                                 "name": "Bottom",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$access_31207"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -117,13 +127,17 @@
                 "sections": [
                     {
                         "name": "Energy Part",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31196"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Energy Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31203"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -148,13 +162,17 @@
                 "sections": [
                     {
                         "name": "Missile Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31199"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Power Bomb Tank",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$access_31202"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -172,97 +190,129 @@
         "sections": [
             {
                 "name": "EMMI Zone Item Tunnel",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31187"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Kraid Eyedoor Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31188"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Transport to Artaria",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31190"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Z-57 Heat Room West (Right)",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31192"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Teleport to Dairon",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31193"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "EMMI Zone Exits West",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31194"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Double Obsydomithon Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31197"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Underlava Puzzle Room 2",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31198"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Lava Button East Access",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31200"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "EMMI Zone Hidden Missile Room",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31201"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Teleport to Artaria (Red)",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31204"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Z-57 Heat Room East",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31206"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Dairon Transport Access",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31208"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Experiment Z-57",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31295"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "E.M.M.I.-03MB",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31298"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Kraid",
-                "access_rules": [],
+                "access_rules": [
+                    "$access_31302"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
             }

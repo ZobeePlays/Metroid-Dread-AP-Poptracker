@@ -82,6 +82,13 @@
                         "Hanubia"
                     ]
                 }
+            },
+            {
+                "title": "Tricks",
+                "content": {
+                    "type": "layout",
+                    "key": "Tricks_Grid"
+                }
             }
         ]
     },
@@ -167,6 +174,13 @@
                     "maps": [
                         "Hanubia"
                     ]
+                }
+            },
+            {
+                "title": "Tricks",
+                "content": {
+                    "type": "layout",
+                    "key": "Tricks_Grid"
                 }
             }
         ]
